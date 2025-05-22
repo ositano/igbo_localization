@@ -806,4 +806,13 @@ class IgMaterialLocalizations extends GlobalMaterialLocalizations {
   @override
   ScriptCategory get scriptCategory => ScriptCategory.englishLike;
 
+  @override
+  // TODO: implement clearButtonTooltip
+  String get clearButtonTooltip => r'Hichapụ ụbọchị ahọpụtara';
+
+  @override
+  // TODO: implement selectedDateLabel
+  String get selectedDateLabel => r'Ụbọchị ahọpụtara';
+
+
 }

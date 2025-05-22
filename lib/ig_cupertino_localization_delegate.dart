@@ -215,4 +215,14 @@ class IgboCupertinoLocalizations implements CupertinoLocalizations {
 
   @override
   String get shareButtonLabel => 'Wepụ...';
+
+  @override
+  // TODO: implement backButtonLabel
+  String get backButtonLabel => 'Azụ';
+
+  @override
+  // TODO: implement cancelButtonLabel
+  String get cancelButtonLabel => 'Kagbuo';
+
+
 }

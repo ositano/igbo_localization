@@ -1,6 +1,6 @@
 name: igbo_localization
 description: "This package provides localization support for Igbo locale"
-version: 0.0.1
+version: 0.0.4
 homepage: https://www.github.com/ositano/igbo_localization
 
 environment:
@@ -12,13 +12,13 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  intl: ^0.18.1
+  intl: ^0.20.2
   localized: ^2.1.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.0
+  flutter_lints: ^5.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

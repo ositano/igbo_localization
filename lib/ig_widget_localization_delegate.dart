@@ -34,25 +34,53 @@ class IgWidgetLocalizations extends WidgetsLocalizations {
 
   @override
   // TODO: implement reorderItemDown
-  String get reorderItemDown => throw UnimplementedError();
+  String get reorderItemDown => r'Gaa ala';
 
   @override
   // TODO: implement reorderItemLeft
-  String get reorderItemLeft => throw UnimplementedError();
+  String get reorderItemLeft => r"Gaa n'aka ekpe";
 
   @override
   // TODO: implement reorderItemRight
-  String get reorderItemRight => throw UnimplementedError();
+  String get reorderItemRight => r'Gaa aka nri';
 
   @override
   // TODO: implement reorderItemToEnd
-  String get reorderItemToEnd => throw UnimplementedError();
+  String get reorderItemToEnd => r'Gaa na njedebe';
 
   @override
   // TODO: implement reorderItemToStart
-  String get reorderItemToStart => throw UnimplementedError();
+  String get reorderItemToStart => r'Gaa na mmalite';
 
   @override
   // TODO: implement reorderItemUp
-  String get reorderItemUp => throw UnimplementedError();
+  String get reorderItemUp => r'Bulie elu';
+
+  @override
+  // TODO: implement copyButtonLabel
+  String get copyButtonLabel => r'Detuo';
+
+  @override
+  // TODO: implement cutButtonLabel
+  String get cutButtonLabel => r'Bee';
+
+  @override
+  // TODO: implement lookUpButtonLabel
+  String get lookUpButtonLabel => r'Lelie anya';
+
+  @override
+  // TODO: implement pasteButtonLabel
+  String get pasteButtonLabel => r'Tapawa';
+
+  @override
+  // TODO: implement searchWebButtonLabel
+  String get searchWebButtonLabel => r'Chọọ Webụsaịtị';
+
+  @override
+  // TODO: implement selectAllButtonLabel
+  String get selectAllButtonLabel => r'Họrọ Ha niile';
+
+  @override
+  // TODO: implement shareButtonLabel
+  String get shareButtonLabel => r'Kekọrịta';
 }
