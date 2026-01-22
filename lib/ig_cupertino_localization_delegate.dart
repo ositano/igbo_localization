@@ -224,5 +224,23 @@ class IgboCupertinoLocalizations implements CupertinoLocalizations {
   // TODO: implement cancelButtonLabel
   String get cancelButtonLabel => 'Kagbuo';
 
+  @override
+  String get collapsedHint => 'Mekwara mbara';
+
+  @override
+  String get expandedHint => 'Kpachie ya';
+
+  @override
+  String get expansionTileCollapsedHint => 'Pịa ugboro abụọ ka ọ gbasasịa';
+
+  @override
+  String get expansionTileCollapsedTapHint => 'Gbasasịa ka ị hụ nkọwa ndị ọzọ';
+
+  @override
+  String get expansionTileExpandedHint => 'Pịa ugboro abụọ ka ọ kpakọọ';
+
+  @override
+  String get expansionTileExpandedTapHint => 'Kpakọọ';
+
 
 }

@@ -12,3 +12,7 @@
 ## 0.0.4
 
 * added implementation for CupertinoLocalizations.backButtonLabel and  CupertinoLocalizations.cancelButtonLabel
+
+## 0.0.5
+
+* added implementation for new accessibility hints
