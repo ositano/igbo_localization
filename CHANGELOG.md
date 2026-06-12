@@ -16,3 +16,7 @@
 ## 0.0.5
 
 * added implementation for new accessibility hints
+
+## 0.1.5
+
+* added implementation for new abstract properties

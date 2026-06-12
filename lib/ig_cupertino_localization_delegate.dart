@@ -161,46 +161,36 @@ class IgboCupertinoLocalizations implements CupertinoLocalizations {
   static const LocalizationsDelegate<CupertinoLocalizations> delegate = _IgboCupertinoLocalizationsDelegate();
 
   @override
-  // TODO: implement modalBarrierDismissLabel
   String get modalBarrierDismissLabel => 'Tụrụ ọsọ';
 
   @override
-  // TODO: implement noSpellCheckReplacementsLabel
   String get noSpellCheckReplacementsLabel => "";
 
   @override
-  // TODO: implement searchTextFieldPlaceholderLabel
   String get searchTextFieldPlaceholderLabel => "";
 
   @override
   String tabSemanticsLabel({required int tabIndex, required int tabCount}) {
-    // TODO: implement tabSemanticsLabel
     return "";
   }
 
   @override
-  // TODO: implement timerPickerHourLabels
   List<String> get timerPickerHourLabels => [];
 
   @override
-  // TODO: implement timerPickerMinuteLabels
   List<String> get timerPickerMinuteLabels => [];
 
   @override
-  // TODO: implement timerPickerSecondLabels
   List<String> get timerPickerSecondLabels => [];
 
   @override
-  // TODO: implement todayLabel
   String get todayLabel => "";
 
   @override
-  // TODO: implement clearButtonLabel
   String get clearButtonLabel => 'Mba';
 
   @override
   String datePickerStandaloneMonth(int monthIndex) {
-    // TODO: implement datePickerStandaloneMonth
     return "";
   }
 
@@ -217,11 +207,9 @@ class IgboCupertinoLocalizations implements CupertinoLocalizations {
   String get shareButtonLabel => 'Wepụ...';
 
   @override
-  // TODO: implement backButtonLabel
   String get backButtonLabel => 'Azụ';
 
   @override
-  // TODO: implement cancelButtonLabel
   String get cancelButtonLabel => 'Kagbuo';
 
   @override
@@ -241,6 +229,4 @@ class IgboCupertinoLocalizations implements CupertinoLocalizations {
 
   @override
   String get expansionTileExpandedTapHint => 'Kpakọọ';
-
-
 }
